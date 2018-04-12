@@ -1,0 +1,60 @@
+C4 400 // Take
+C5 200 // me
+A4 200 // out
+G4 200 // to
+E4 250 // the
+G4 600 // ball
+D4 600 // game
+C4 400 // Take 
+C5 200 // me
+A4 200 // out
+G4 200 // with
+E4 200 // the
+G4 1000 // crowd
+A4 200 // buy
+G#4 200 // me
+A4 200 // some
+E4 200 // pea
+F4 200 //nuts
+G4 200 //and
+A4 400 //crac
+F4 200 //er
+D4 600 //jack
+A4 400 //I 
+A4 200 //don't 
+A4 200 //care
+B4 200 //if
+C5 200 //we
+D5 200 //ev
+B4 200 //er
+A4 200 //get
+G4 200 //back
+E4 200 //let
+D4 200 //me
+C4 400 //root
+C5 200 // root
+A4 200 // root
+G4 200 // for
+E4 200 // the
+G4 800 // home
+D4 400 // team
+D4 200 //If
+C4 400 //They
+D4 200 //don't
+E4 200 //win
+F4 200 //it's
+G4 200 //a
+A4 800 //shame
+A4 200 //for
+B4 200 //its
+C5 600 //one,
+C5 600 //two,
+C5 200 //three
+B4 200 //strikes,
+A4 200 //you're
+G4 200 //out
+F#4 200 //at
+G4 200 //the
+A4 600 //old
+B4 600 //ball
+C5 1000 //game
